@@ -1,5 +1,5 @@
 {
-    "name": "pressure sensor",
+    "name": "Annalog Sensor",
     "description": "",
     "dependencies": {
         "core": "*",
